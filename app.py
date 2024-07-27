@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Hard-coded API key
-API_KEY = '0ZWV6OY7JZHCIVXL'
+API_KEY = 'ZVQJXMTPWVE948UR'
 BASE_URL = 'https://www.alphavantage.co/query'
 
 def fetch_stock_data(symbol: str):
